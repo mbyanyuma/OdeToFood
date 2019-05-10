@@ -36,6 +36,7 @@ namespace OdeToFood.Data
         public Restaurant Add(Restaurant newRestaurant)
         {
             _dbContext.Add(newRestaurant);
+            Commit();
             return newRestaurant;
         }
 
