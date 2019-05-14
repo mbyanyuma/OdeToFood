@@ -1,0 +1,22 @@
+{
+  "name": "odetofood",
+  "version": "1.0.0",
+  "description": "ASP.NET Core restaurant search web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbyanyuma/OdeToFood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbyanyuma/OdeToFood/issues"
+  },
+  "homepage": "https://github.com/mbyanyuma/OdeToFood#readme",
+  "dependencies": {
+    "datatables.net-dt": "^1.10.19"
+  }
+}
